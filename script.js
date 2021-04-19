@@ -1,12 +1,17 @@
 ﻿// ==UserScript==
 // @name         Auto-responses
 // @namespace    https://forum.blackrussia.online
+// @copyright 2021, Carrizo
 // @version      1.0
 // @description  try to take over the world!
 // @author       Carrizo
 // @match        https://forum.blackrussia.online/index.php?threads/*
 // @include      https://forum.blackrussia.online/index.php?threads/
 // @grant        none
+// @license 	 MIT
+// @collaborator Carrizo
+// @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
+// @copyright 2021, Carrizo (https://openuserjs.org/users/Carrizo)
 // ==/UserScript==
 
 (function () {
